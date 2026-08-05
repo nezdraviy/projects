@@ -1,4 +1,4 @@
-<img width="1651" height="202" alt="image" src="https://github.com/user-attachments/assets/75c3e7e0-7b7f-4c4c-8ef1-088344f326fe" /># Elo Merchant Category Recommendation
+<img width="1651" height="202" alt="image" src="https://github.com/user-attachments/assets/75c3e7e0-7b7f-4c4c-8ef1-088344f326fe" />
 ## https://kaggle.com/competitions/elo-merchant-category-recommendation, 2018. Kaggle.
 
 **Лучший результат: Private Score: 3.68298, Public Score: 3.78798**
