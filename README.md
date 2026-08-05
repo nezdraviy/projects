@@ -1,5 +1,7 @@
-# Elo Merchant Category Recommendation
+<img width="1651" height="202" alt="image" src="https://github.com/user-attachments/assets/75c3e7e0-7b7f-4c4c-8ef1-088344f326fe" /># Elo Merchant Category Recommendation
 ## https://kaggle.com/competitions/elo-merchant-category-recommendation, 2018. Kaggle.
+
+**Лучший результат: Private Score: 3.68298, Public Score: 3.78798**
 
 **Данное соревнование выбрано мною по причине желания поработать с финансовыми данными и ввиду интересной структуры данных.**
 В ходе работы был произведен первичный анализ данных и формировка новых признаков. Из трех таблиц путем агрегации данных по каждой покупке был сформирован единый датасет для предсказания лояльности клиента.
